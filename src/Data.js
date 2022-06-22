@@ -1,4 +1,4 @@
-let data = [
+let productData = [
   {
     id: "jfhgbvnscs",
     name: "Casual Shirt",
@@ -28,5 +28,3 @@ let data = [
     img: "images/img-4.jpg",
   },
 ];
-
-export default data;
