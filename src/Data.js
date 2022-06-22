@@ -1,4 +1,4 @@
-let shopItemsData = [
+let data = [
   {
     id: "jfhgbvnscs",
     name: "Casual Shirt",
@@ -28,3 +28,5 @@ let shopItemsData = [
     img: "images/img-4.jpg",
   },
 ];
+
+export default data;
